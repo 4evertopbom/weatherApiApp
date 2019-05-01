@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.0)
+  - DarkSkyKit (0.0.6):
+    - Alamofire (~> 4.0)
+
+DEPENDENCIES:
+  - DarkSkyKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DarkSkyKit
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  DarkSkyKit: ae500687161b11e1f352cdf261ff620fe3837cf5
+
+PODFILE CHECKSUM: ff6ed33d1849e59a414125deed022aa33a479c49
+
+COCOAPODS: 1.5.3
